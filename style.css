@@ -1,11 +1,22 @@
 :root {
-    font-size: 10px; /* Base font size */
+    /* font-size: 10px;  */
+    /* Base font size */
 }
 
-p, h1, h2, h3, h4, h5, h6, div, span, a, li, button {
-    font-size: 1.6rem; /* 16px */
+div {
+    font-size: 2rem;
 }
 
+
+h1 {
+    font-size: 2.4rem; /* 24px */
+}
+
+
+
+h1 {
+    font-size: 2.4rem; /* 24px */
+}
 
 .container {
     max-width: 1200px;
