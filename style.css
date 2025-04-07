@@ -1,10 +1,10 @@
 :root {
     /* font-size: 10px;  */
     /* Base font size */
-    --color_1: #FF5722; /* Primary color */
-    --color_2: #FF9800; /* Secondary color */
-    --color_3: #FFEB3B; /* Accent color */
-    --color_4: #4CAF50; /* Success color */
+    --color_1: #FF2DF1; /* Primary color */
+    --color_2: #410445; /* Secondary color */
+    --color_3: #F6DC43; /* Accent color */
+    --color_4: #080a08; /* Success color */
 }
 
 div {
