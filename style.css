@@ -7,8 +7,6 @@ div {
     font-size: 2rem;
 }
 
-
-
 .container {
     max-width: 1200px;
     margin: 0 auto; /* Center the container */
@@ -30,8 +28,18 @@ div {
     gap: 10px;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (max-width: 800px) {
     .container {
         background-color: rgb(172, 0, 163);
+    }
+
+    .flex {
+        flex-direction: column;
+        text-align: center;
+
+    }
+    
+    .box {
+        width: 100%;
     }
 }
