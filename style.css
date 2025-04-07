@@ -4,8 +4,10 @@
     --color_1: #FF2DF1; /* Primary color */
     --color_2: #410445; /* Secondary color */
     --color_3: #F6DC43; /* Accent color */
-    --color_4: #080a08; /* Success color */
+    --color_4: #2323df; /* Success color */
 }
+
+
 
 div {
     font-size: 2rem;
