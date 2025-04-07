@@ -1,21 +1,20 @@
 .container {
     max-width: 1200px;
-    margin: 0 auto;
-    height: 100vh;
+    margin: 0 auto; /* Center the container */
+    height: 100vh; /* Full viewport height */
     background-color: #FFF9C4;
 }
-
 
 .box {
     width: 100px;
     height: 100px;
     background-color: rgb(234, 236, 116);
     border: 1px solid black;
-
 }
 
 .flex{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 10px;
 }
